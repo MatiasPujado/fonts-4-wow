@@ -1,0 +1,13 @@
+## Interface: 20504
+## X-Min-Interface: 20504
+
+## Version: 1.0.0
+## Author: Matias Pujado
+## Title: |cFF00FF80Fonts4-WoW|r
+## Title-esES: |cFF00FF80Custom Selection of Fonts for World of Warcraft TBC|r
+## Notes: Fonts for World of Warcraft TBC
+## Notes-esES: Fuentes para World of Warcraft TBC
+## DefaultState: Enable
+
+libs\LibSharedMedia-3.0\lib.xml
+core.lua
