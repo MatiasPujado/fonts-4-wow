@@ -1,0 +1,14 @@
+## Interface: 100207, 110000, 110002
+## X-Min-Interface: 100207
+## X-Interface: Retail
+
+## Version: 1.0.0
+## Author: Matias Pujado
+## Title: |cFF00FF80Fonts4-WoW|r
+## Title-esES: |cFF00FF80Custom Selection of Fonts for World of Warcraft|r
+## Notes: Fonts for World of Warcraft
+## Notes-esES: Fuentes para World of Warcraft
+## DefaultState: Enable
+
+libs\LibSharedMedia-3.0\lib.xml
+core.lua
